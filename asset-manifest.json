@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/test-popup/static/css/main.d9be51e7.chunk.css",
+    "main.js": "/test-popup/static/js/main.8e0607d7.chunk.js",
+    "main.js.map": "/test-popup/static/js/main.8e0607d7.chunk.js.map",
+    "runtime-main.js": "/test-popup/static/js/runtime-main.09ff4031.js",
+    "runtime-main.js.map": "/test-popup/static/js/runtime-main.09ff4031.js.map",
+    "static/js/2.bd1103fb.chunk.js": "/test-popup/static/js/2.bd1103fb.chunk.js",
+    "static/js/2.bd1103fb.chunk.js.map": "/test-popup/static/js/2.bd1103fb.chunk.js.map",
+    "static/js/3.6737694f.chunk.js": "/test-popup/static/js/3.6737694f.chunk.js",
+    "static/js/3.6737694f.chunk.js.map": "/test-popup/static/js/3.6737694f.chunk.js.map",
+    "index.html": "/test-popup/index.html",
+    "static/css/main.d9be51e7.chunk.css.map": "/test-popup/static/css/main.d9be51e7.chunk.css.map",
+    "static/js/2.bd1103fb.chunk.js.LICENSE.txt": "/test-popup/static/js/2.bd1103fb.chunk.js.LICENSE.txt",
+    "static/media/check.62a8ceae.svg": "/test-popup/static/media/check.62a8ceae.svg",
+    "static/media/closeButton.beb7d290.svg": "/test-popup/static/media/closeButton.beb7d290.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09ff4031.js",
+    "static/js/2.bd1103fb.chunk.js",
+    "static/css/main.d9be51e7.chunk.css",
+    "static/js/main.8e0607d7.chunk.js"
+  ]
+}
